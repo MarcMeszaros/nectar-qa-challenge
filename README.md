@@ -14,9 +14,9 @@ The following data and graphs are computed post the correlation (matching).
 
 1. Number of products
 2. Number of matches per product
-3. Total used = Sum ( Sum of used per product)
-4. Total poured = Sum (Sum of sold per product)
-5. Ranking = Total used / Total poured
+3. Total used = Sum (Sum of used per product)
+4. Total sold = Sum (Sum of sold per product)
+5. Ranking = Total used / Total sold
 6. The distribution of the absolute difference between the `used_ml` and `sold_ml`, aggregated across all products and times are plotted as shown in the attached graph. Assume this is on a web page.
 
 All data points from 1 to 5 are shown on a web page along with the graph.
